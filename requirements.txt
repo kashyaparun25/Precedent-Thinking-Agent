@@ -28,3 +28,4 @@ numpy==2.2.4
 
 # Utilities
 python-dotenv==1.1.0
+pysqlite3-binary
