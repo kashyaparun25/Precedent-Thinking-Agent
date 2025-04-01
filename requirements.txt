@@ -1,0 +1,30 @@
+# Core dependencies
+streamlit==1.44.0
+crewai==0.108.0
+crewai-tools==0.38.1
+pydantic==2.11.0
+litellm==1.60.2
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==1.1.2
+
+# Search tools
+duckduckgo_search==7.5.5
+newsapi-python==0.2.7
+scholarly==1.7.11
+requests==2.32.3
+
+# Visualization
+plotly==6.0.1
+matplotlib==3.10.1
+networkx==3.4.2
+wordcloud==1.9.4
+streamlit-markmap==1.0.1
+
+# Data processing
+pandas==2.2.3
+numpy==2.2.4
+
+# Utilities
+python-dotenv==1.1.0
